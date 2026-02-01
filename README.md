@@ -1,17 +1,26 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Anuj+Singh!+👋;Senior+Software+Engineer+💻;Competitive+Programmer&color=FFA116&gradient=true&gradientColor=7023d8"
-    alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Anuj+Singh!+👋;Senior+Software+Engineer+💻;Competitive+Programmer&color=FFA116&gradient=true&gradientColor=7023d8" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-7023d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anuj-singh-portfolio.vercel.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Anuj9826)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Anuj9826/)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Anuj9826)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:newtoneinstein97@gmail.com)
+  <a href="https://anuj-singh-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-7023d8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/Anuj9826" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Anuj9826/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Anuj9826" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="mailto:newtoneinstein97@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 
 </div>
 
@@ -90,7 +99,7 @@ I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of e
         🌍 <b>Features:</b> Multi-language translation, contrast themes.
       </p>
       <p align="center">
-        <a href="https://rzassist.revize.com/dashboard/home">
+        <a href="https://rzassist.revize.com/dashboard/home" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" height="25"/>
         </a>
       </p>
@@ -105,7 +114,7 @@ I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of e
         ⏱️ <b>Result:</b> Reduced evaluation time by <b>40%</b>.
       </p>
       <p align="center">
-        <a href="https://assessify.ourgoalplan.co.in">
+        <a href="https://assessify.ourgoalplan.co.in" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" height="25"/>
         </a>
       </p>
