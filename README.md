@@ -37,6 +37,8 @@ I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of e
 
 ### 🏆 **Coding Profile Summary**
 
+### 🏆 **Coding Profile Summary**
+
 <div align="center">
 <table>
   <tr>
@@ -50,19 +52,23 @@ I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of e
     </td>
   </tr>
   <tr>
-    <td>
-      <b>Global Rank:</b> ~31,977<br/>
-      <b>Rating:</b> 1,418<br/>
-      <b>Problems Solved:</b> 958+<br/>
+    <td align="center">
       <br/>
-      <img src="https://img.shields.io/badge/Easy-258-00B8A3?style=flat-square" />
-      <img src="https://img.shields.io/badge/Med-518-FFC01E?style=flat-square" />
-      <img src="https://img.shields.io/badge/Hard-182-EF4743?style=flat-square" />
+      <a href="https://leetcode.com/u/Anuj9826/">
+        <img src="https://img.shields.io/badge/dynamic/json?style=social&label=Global%20Ranking&query=ranking&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826" alt="LeetCode Ranking" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826&color=black" alt="Total Solved" />
+      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826&color=green" alt="Easy Solved" />
+      <br/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826&color=yellow" alt="Medium Solved" />
+      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826&color=red" alt="Hard Solved" />
     </td>
-    <td>
-      <b>Badges Earned:</b> 30 Days of Code, 10 Days JS<br/>
+    <td align="center">
+      <br/>
+      <b>Badges:</b> 30 Days of Code, 10 Days JS<br/>
       <b>Stars:</b> 5 ★ (SQL, JS, React)<br/>
-      <b>Certifications:</b> Node.js, REST API, SQL (Adv)<br/>
+      <b>Certifications:</b> Node.js, REST API<br/>
       <br/>
       <img src="https://img.shields.io/badge/SQL-5%20Stars-gold?style=flat-square" />
       <img src="https://img.shields.io/badge/JS-5%20Stars-gold?style=flat-square" />
