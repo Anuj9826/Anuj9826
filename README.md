@@ -37,8 +37,6 @@ I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of e
 
 ### 🏆 **Coding Profile Summary**
 
-### 🏆 **Coding Profile Summary**
-
 <div align="center">
 <table>
   <tr>
