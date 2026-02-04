@@ -55,14 +55,8 @@ I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of e
     <td align="center">
       <br/>
       <a href="https://leetcode.com/u/Anuj9826/">
-        <img src="https://img.shields.io/badge/dynamic/json?style=social&label=Global%20Ranking&query=ranking&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826" alt="LeetCode Ranking" />
+        <img src="https://leetcard.jacoblin.cool/Anuj9826?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
       </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826&color=black" alt="Total Solved" />
-      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826&color=green" alt="Easy Solved" />
-      <br/>
-      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826&color=yellow" alt="Medium Solved" />
-      <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FAnuj9826&color=red" alt="Hard Solved" />
     </td>
     <td align="center">
       <br/>
