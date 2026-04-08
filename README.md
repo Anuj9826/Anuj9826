@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <a href="https://anuj-singh-portfolio.vercel.app/">
+  <a href="https://devjournai.com/">
     <img src="https://img.shields.io/badge/-Portfolio-7023d8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/anuj-singh-008b2b1b4/">
