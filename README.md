@@ -32,7 +32,7 @@ I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of e
 
 - 🔭 **Building:** A personal portfolio ecosystem with React, Vite, & TypeScript.
 - 🏗️ **Architecting:** Scalable backend systems using **RabbitMQ, Docker, & Kubernetes**.
-- 🧠 **Solving:** 950+ DSA Problems (LeetCode Global Top 4%).
+- 🧠 **Solving:** 1500+ DSA Problems (LeetCode Global Top 4%).
 - 💬 **Ask me about:** System Design, Database Optimization, and AWS.
 
 ---
