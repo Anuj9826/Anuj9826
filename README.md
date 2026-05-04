@@ -28,7 +28,7 @@
 
 ### 👨‍💻 **About Me**
 
-I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of experience. I specialize in building high-performance, cloud-native web applications using the **MERN stack, TypeScript, and Microservices**.
+I am a **Software Engineer** at **Mindfire Solutions** with 3+ years of experience. I specialize in building high-performance, cloud-native web applications using the **MERN stack, TypeScript, and Microservices**.
 
 - 🔭 **Building:** A personal portfolio ecosystem with React, Vite, & TypeScript.
 - 🏗️ **Architecting:** Scalable backend systems using **RabbitMQ, Docker, & Kubernetes**.
@@ -76,10 +76,10 @@ I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of e
 
 ### 💼 **Work Experience**
 
-| **Role & Company**                                                             | **Key Contributions & Impact**                                                                                                                                                                                                                                                                                                 |
-| :----------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Senior Software Engineer**<br>_Mindfire Solutions_<br>_(Sep 2024 – Present)_ | • **Microservices:** Architected containerized services (Docker) with **99.9% uptime**.<br>• **Performance:** Integrated **RabbitMQ** task queues, boosting throughput by **35%**.<br>• **Optimization:** Improved MySQL schemas, reducing query latency by **40%**.<br>• **Scale:** Supporting **10K+ monthly active users**. |
-| **SDE-1 Backend Engineer**<br>_Dhwani Rural Info_<br>_(Sep 2023 – Aug 2024)_   | • **Security:** Implemented RBAC authentication, reducing unauthorized access by **30%**.<br>• **Database:** Managed **5,000+** appraisal records with complex SQL architectures.<br>• **API:** Built secure REST APIs for HR automation used by **1,000+ employees**.                                                         |
+| **Role & Company**                                                           | **Key Contributions & Impact**                                                                                                                                                                                                                                                                                                 |
+| :--------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Software Engineer**<br>_Mindfire Solutions_<br>_(Sep 2024 – Present)_      | • **Microservices:** Architected containerized services (Docker) with **99.9% uptime**.<br>• **Performance:** Integrated **RabbitMQ** task queues, boosting throughput by **35%**.<br>• **Optimization:** Improved MySQL schemas, reducing query latency by **40%**.<br>• **Scale:** Supporting **10K+ monthly active users**. |
+| **SDE-1 Backend Engineer**<br>_Dhwani Rural Info_<br>_(Sep 2023 – Aug 2024)_ | • **Security:** Implemented RBAC authentication, reducing unauthorized access by **30%**.<br>• **Database:** Managed **5,000+** appraisal records with complex SQL architectures.<br>• **API:** Built secure REST APIs for HR automation used by **1,000+ employees**.                                                         |
 
 ---
 
