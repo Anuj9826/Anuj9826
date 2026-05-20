@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2094F3;7023d8;FFA116&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Anuj+Singh!+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Scalable+Systems+%7C+Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2094F3;7023d8;FFA116&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Anuj+Singh!+%F0%9F%91%8B;Senior+Software+Engineer+%F0%9F%92%BB;Scalable+Systems+%7C+Competitive+Programmer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 
 ### 👨‍💻 **About Me**
 
-I am a **Software Engineer** at **Mindfire Solutions** with 3+ years of experience. I specialize in building high-performance, cloud-native web applications using the **MERN stack, TypeScript, and Microservices**.
+I am a **Senior Software Engineer** at **Mindfire Solutions** with 3+ years of experience. I specialize in building high-performance, cloud-native web applications using the **MERN stack, TypeScript, and Microservices**.
 
 - 🔭 **Building:** A personal portfolio ecosystem with React, Vite, & TypeScript.
 - 🏗️ **Architecting:** Scalable backend systems using **RabbitMQ, Docker, & Kubernetes**.
@@ -76,10 +76,10 @@ I am a **Software Engineer** at **Mindfire Solutions** with 3+ years of experien
 
 ### 💼 **Work Experience**
 
-| **Role & Company**                                                      | **Key Contributions & Impact**                                                                                                                                                                                                                                                                                                 |
-| :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Software Engineer**<br>_Mindfire Solutions_<br>_(Sep 2024 – Present)_ | • **Microservices:** Architected containerized services (Docker) with **99.9% uptime**.<br>• **Performance:** Integrated **RabbitMQ** task queues, boosting throughput by **35%**.<br>• **Optimization:** Improved MySQL schemas, reducing query latency by **40%**.<br>• **Scale:** Supporting **10K+ monthly active users**. |
-| **Software Engineer**<br>_Dhwani Rural Info_<br>_(Sep 2023 – Aug 2024)_ | • **Security:** Implemented RBAC authentication, reducing unauthorized access by **30%**.<br>• **Database:** Managed **5,000+** appraisal records with complex SQL architectures.<br>• **API:** Built secure REST APIs for HR automation used by **1,000+ employees**.                                                         |
+| **Role & Company**                                                             | **Key Contributions & Impact**                                                                                                                                                                                                                                                                                                 |
+| :----------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Senior Software Engineer**<br>_Mindfire Solutions_<br>_(Sep 2024 – Present)_ | • **Microservices:** Architected containerized services (Docker) with **99.9% uptime**.<br>• **Performance:** Integrated **RabbitMQ** task queues, boosting throughput by **35%**.<br>• **Optimization:** Improved MySQL schemas, reducing query latency by **40%**.<br>• **Scale:** Supporting **10K+ monthly active users**. |
+| **Software Engineer**<br>_Dhwani Rural Info_<br>_(Sep 2023 – Aug 2024)_        | • **Security:** Implemented RBAC authentication, reducing unauthorized access by **30%**.<br>• **Database:** Managed **5,000+** appraisal records with complex SQL architectures.<br>• **API:** Built secure REST APIs for HR automation used by **1,000+ employees**.                                                         |
 
 ---
 
